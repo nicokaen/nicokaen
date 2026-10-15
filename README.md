@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicokaen
 - 👀 I’m a #fullstack developer with more than 12 years of experience.
-- 👨🏻‍💻 I’m currently coding, mentoring and having fun at #Globant & #DisneyStudios.
+- 👨🏻‍💻 I’m currently coding, mentoring and having fun at #Disney & #ESPN.
 - 📫 You can check my personal website: [nicokaen.com](https://nicokaen.com)
 
 <!---
